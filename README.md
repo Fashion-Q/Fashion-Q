@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**Fashion-Q/Fashion-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😊 My name's Verenilson
+- 🏫 I'm study at Federal University of Sergipe
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on games enterprises
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I like to make games in free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="[GitHub Verenilson](https://github.com/Fashion-Q)">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fashion-Q&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fashion-Q&layout=compact&langs_count=7&theme=maroongold"/>
+</div>
