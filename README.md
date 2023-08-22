@@ -2,7 +2,7 @@
 
 - 😊 My name's Verenilson
 - 🏫 I'm study at Federal University of Sergipe
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Unity Engine
 - 👯 I’m looking to collaborate on games enterprises
 
 - ⚡ Fun fact: I like to make games in free time
